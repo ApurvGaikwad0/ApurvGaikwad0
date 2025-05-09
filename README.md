@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm currently working on Cloud Computing and Data Science<br>* I'm looking to collaborate on any AWS-related project<br>* I'm looking for help with internships in AWSDev, CloudDev, DataRoles, or SWE/SD<br>* I'm currently learning advanced topics in the Cloud like managing complex multi-cloud environments<br>
+Hi, I'm Apurv Gaikwad, a master's student in Computer Science at Illinois Institute of Technology. I'm passionate about AI, Machine Learning, Cloud Computing, and building real-world solutions.
+
+I've worked on projects like AI-powered predictive maintenance systems, NLP-based sentiment analysis, and scalable recommendation engines, all using cutting-edge technologies like TensorFlow, AWS, and Apache Spark.
+
+Currently, I'm interning as a Software Engineer & Data Scientist at Shoptaki, where I developed SmartID—a blockchain-based digital identity solution—and optimized backend services. My previous roles include improving security systems as a DevOps Engineer at Datacrush Analytics.
+
+Outside of coding, I'm actively involved in HackwithIndia, organizing hackathons and workshops to foster community engagement and innovation.
+
+Explore my projects, and let's connect!
 
 
 ## 🌐 Socials:
