@@ -1,10 +1,14 @@
 # I'm Apurv Gaikwad 
 
-#### AI Developer | Data Scientist | Machine Learning Practitioner | Software Engineer
+#### AI Enthusiast | Data Scientist | Machine Learning Practitioner | Software Engineer
 
 Actively seeking full-time roles in AI/ML, Data Science, Software Engineering, or Cloud Infrastructure
 
-🌐 [Portfolio](https://apurv-gaikwad.vercel.app/)   ℹ️ [LinkedIn](https://www.linkedin.com/in/apurv-gaikwad) 
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://apurv-gaikwad.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurv-gaikwad) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](apurvgaikwad.dev@gmail.com) 
+[![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)](https://calendar.app.google/uJfHPbyATLnWD3P88)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ETHERsolo#6135) 
 
 I'm a Master's student in Computer Science at the Illinois Institute of Technology, specializing in Artificial Intelligence and Software Development. My passion lies in exploring how intelligent systems powered by LLMs, deep learning, and data science can solve meaningful problems at scale. I build intelligent, scalable, and secure systems at the intersection of machine learning, cloud computing, and full-stack development.
 
@@ -46,10 +50,6 @@ I love connecting with other AI builders, researchers, and developers. Feel free
 📬 apurvgaikwad.dev@gmail.com
 
 
-## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/ETHERsolo#6135) 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurv-gaikwad) 
 
 ## Tech Stack:
 
@@ -86,6 +86,20 @@ I love connecting with other AI builders, researchers, and developers. Feel free
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Artificial Intelligence
+![LangChain](https://img.shields.io/badge/LangChain-2B2D42?style=for-the-badge&logo=chainlink&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT_3.5/4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude (Anthropic)](https://img.shields.io/badge/Claude_AI-0F172A?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-FF6B6B?style=for-the-badge&logo=semanticweb&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG--Pipeline-009688?style=for-the-badge&logo=graphql&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FF9F1C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-6A1B9A?style=for-the-badge&logo=slack&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-343434?style=for-the-badge&logo=apache&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 ### ML/DL
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -155,5 +169,3 @@ I love connecting with other AI builders, researchers, and developers. Feel free
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ApurvGaikwad0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
