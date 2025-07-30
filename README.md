@@ -1,6 +1,6 @@
 # I'm Apurv Gaikwad 
 
-#### AI Enthusiast | Data Scientist | Machine Learning Practitioner | Software Engineer
+#### AI Developer | Data Scientist | Machine Learning Practitioner | Software Engineer
 
 Actively seeking full-time roles in AI/ML, Data Science, Software Engineering, or Cloud Infrastructure
 
